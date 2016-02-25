@@ -1,0 +1,22 @@
+$ff: 'arial';
+$bg: #87CEEB;
+$newbg: #FFB6C1;
+$subcolor:  #000080;
+body {
+	background-color: $newbg;
+	font-family: $ff;
+
+}
+p {
+	background-color: $newbg;
+	font-family: $ff;
+}
+#submit {
+color: $subcolor; 	
+background: $bg;
+ width: 10em; 
+ height: 2em;
+}
+#head {
+	color: $subcolor;
+}
